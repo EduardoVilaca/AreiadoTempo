@@ -1,0 +1,113 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { formatDateShort } from '../utils/date.js';
+
+// Astro 6: usar import.meta.glob (Astro.glob foi removido).
+const modules = import.meta.glob('./blog/*.md', { eager: true });
+
+const posts = Object.values(modules)
+  .map((m) => ({ url: m.url, ...m.frontmatter }))
+  .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+---
+
+<BaseLayout>
+  <main class="wrap">
+    <section class="hero">
+      <p class="eyebrow">Caderno de opinião</p>
+      <h1 class="hero__thesis">
+        O que se diz no calor do dia assenta, com o tempo, como areia.
+      </h1>
+      <p class="hero__lede">
+        Ensaios sobre os temas que nos unem e nos dividem — escritos com vagar,
+        para serem lidos depois de a poeira baixar.
+      </p>
+    </section>
+
+    <section class="index" aria-label="Arquivo de ensaios">
+      <ol class="index__list">
+        {posts.map((post) => (
+          <li class="entry">
+            <a class="entry__link" href={post.url}>
+              <p class="entry__meta">Nº {post.number} · {formatDateShort(post.pubDate)}</p>
+              <h2 class="entry__title">{post.title}</h2>
+              <p class="entry__dek">{post.description}</p>
+            </a>
+          </li>
+        ))}
+      </ol>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  .hero {
+    max-width: 44rem;
+    padding: 4.5rem 0 3.5rem;
+  }
+  .hero .eyebrow { margin: 0 0 1.5rem; }
+  .hero__thesis {
+    font-family: var(--display);
+    font-weight: 400;
+    font-size: clamp(2.1rem, 6vw, 3.4rem);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    margin: 0 0 1.5rem;
+    text-wrap: balance;
+  }
+  .hero__lede {
+    font-family: var(--body);
+    font-size: 1.25rem;
+    line-height: 1.55;
+    color: var(--ink-soft);
+    margin: 0;
+    max-width: 34rem;
+  }
+
+  .index {
+    border-top: 1px solid var(--line-strong);
+  }
+  .index__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .entry { border-bottom: 1px solid var(--line); }
+  .entry__link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    padding: 2.2rem 0;
+    transition: background 0.15s;
+  }
+  .entry__link:hover { background: var(--paper-raised); }
+  .entry__link:hover .entry__title { color: var(--accent-deep); }
+  .entry__link:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 4px;
+  }
+  .entry__meta {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent-deep);
+    margin: 0 0 0.6rem;
+  }
+  .entry__title {
+    font-family: var(--display);
+    font-weight: 500;
+    font-size: clamp(1.5rem, 3.5vw, 2rem);
+    line-height: 1.12;
+    letter-spacing: -0.015em;
+    margin: 0 0 0.6rem;
+    transition: color 0.15s;
+  }
+  .entry__dek {
+    font-family: var(--body);
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    margin: 0;
+    max-width: 42rem;
+  }
+</style>

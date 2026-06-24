@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Sobre" description="Sobre o Areia do Tempo.">
+  <main class="wrap article">
+    <p class="article__dateline">Sobre</p>
+    <h1 class="article__title">Areia do Tempo</h1>
+    <div class="prose">
+      <p>
+        Este é um caderno de opinião sobre temas sociais. Os textos não procuram
+        ter razão depressa; procuram pensar devagar, à distância do ruído.
+      </p>
+      <p>
+        O nome diz o resto. Aquilo que hoje parece urgente é, quase sempre,
+        areia que o tempo há de assentar. Escrevo para o que fica depois.
+      </p>
+      <p>
+        Para falar comigo: <a href="mailto:info@areiadotempo.pt">info@areiadotempo.pt</a>.
+      </p>
+    </div>
+    <p class="article__back"><a href="/">← Voltar ao arquivo</a></p>
+  </main>
+</BaseLayout>
+
+<style>
+  .article { max-width: var(--measure); margin-top: 3.5rem; }
+  .article__dateline {
+    font-family: var(--mono);
+    font-size: 0.74rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent-deep);
+    margin: 0 0 1.1rem;
+  }
+  .article__title {
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: clamp(2rem, 5vw, 2.9rem);
+    line-height: 1.08;
+    letter-spacing: -0.015em;
+    margin: 0 0 2rem;
+  }
+  .prose :global(p) { margin: 0 0 1.5rem; }
+  .prose :global(a) {
+    color: var(--accent-deep);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .article__back {
+    margin-top: 3.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--line);
+    font-family: var(--mono);
+    font-size: 0.8rem;
+  }
+  .article__back a { color: var(--accent-deep); text-decoration: none; }
+</style>
