@@ -5,9 +5,14 @@ import { formatDateShort } from '../utils/date.js';
 // Astro 6: usar import.meta.glob (Astro.glob foi removido).
 const modules = import.meta.glob('./blog/*.md', { eager: true });
 
-const posts = Object.values(modules)
+const allPosts = Object.values(modules)
   .map((m) => ({ url: m.url, ...m.frontmatter }))
   .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+// Caminho B: a entrada mostra só os mais recentes; o arquivo tem tudo.
+const RECENTES = 6;
+const posts = allPosts.slice(0, RECENTES);
+const haMais = allPosts.length > RECENTES;
 ---
 
 <BaseLayout>
@@ -35,6 +40,11 @@ const posts = Object.values(modules)
           </li>
         ))}
       </ol>
+      {haMais && (
+        <p class="index__more">
+          <a href="/arquivo">Ver todos os ensaios no arquivo →</a>
+        </p>
+      )}
     </section>
   </main>
 </BaseLayout>
@@ -110,4 +120,15 @@ const posts = Object.values(modules)
     margin: 0;
     max-width: 42rem;
   }
+  .index__more {
+    margin: 2.2rem 0 0;
+    font-family: var(--mono);
+    font-size: 0.82rem;
+    letter-spacing: 0.04em;
+  }
+  .index__more a {
+    color: var(--accent-deep);
+    text-decoration: none;
+  }
+  .index__more a:hover { text-decoration: underline; }
 </style>
