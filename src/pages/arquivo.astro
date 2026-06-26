@@ -1,0 +1,88 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { formatDateShort } from '../utils/date.js';
+
+// Lista cronológica completa de todos os ensaios.
+const modules = import.meta.glob('./blog/*.md', { eager: true });
+
+const posts = Object.values(modules)
+  .map((m) => ({ url: m.url, ...m.frontmatter }))
+  .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+---
+
+<BaseLayout title="Arquivo" description="Todos os ensaios do Areia do Tempo, por ordem cronológica.">
+  <main class="wrap arquivo">
+    <p class="eyebrow">Arquivo</p>
+    <h1 class="arquivo__title">Todos os ensaios</h1>
+
+    <ol class="arquivo__list">
+      {posts.map((post) => (
+        <li class="row">
+          <a class="row__link" href={post.url}>
+            <span class="row__meta">Nº {post.number} · {formatDateShort(post.pubDate)}</span>
+            <span class="row__title">{post.title}</span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </main>
+</BaseLayout>
+
+<style>
+  .arquivo {
+    max-width: 48rem;
+    margin-top: 3.5rem;
+  }
+  .arquivo .eyebrow { margin: 0 0 1rem; }
+  .arquivo__title {
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: clamp(2rem, 5vw, 2.8rem);
+    line-height: 1.08;
+    letter-spacing: -0.015em;
+    margin: 0 0 2.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--line-strong);
+  }
+  .arquivo__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .row { border-bottom: 1px solid var(--line); }
+  .row__link {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.4rem 1.5rem;
+    text-decoration: none;
+    color: inherit;
+    padding: 1.2rem 0.5rem;
+    transition: background 0.15s;
+  }
+  .row__link:hover { background: var(--paper-raised); }
+  .row__link:hover .row__title { color: var(--accent-deep); }
+  .row__link:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
+  .row__meta {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent-deep);
+    flex: 0 0 auto;
+    min-width: 9rem;
+  }
+  .row__title {
+    font-family: var(--display);
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    transition: color 0.15s;
+  }
+  @media (max-width: 540px) {
+    .row__meta { min-width: 0; flex-basis: 100%; }
+  }
+</style>
