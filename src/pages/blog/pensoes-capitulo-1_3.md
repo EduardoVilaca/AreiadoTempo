@@ -1,8 +1,9 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: "O Dogma da Sustentabilidade"
-subtitle: "Pensões em Portugal — Capítulo 1: este país não é para velhos"
 description: "Fala-se da sustentabilidade das pensões com um livro-razão escolhido a dedo, penaliza-se o trabalho qualificado como se fosse riqueza, e a maioria dos pensionistas não tem com que pagar um lar. Primeiro de uma série."
-pubDate: 2026-06-26
+pubDate: "2026-06-28"
+number: "01"
 draft: false
 tags: ["pensões", "segurança social", "política social", "fiscalidade", "trabalho qualificado", "futuro do trabalho"]
 ---
