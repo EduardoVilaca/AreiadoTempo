@@ -7,7 +7,7 @@ const modules = import.meta.glob('./blog/*.md', { eager: true });
 
 const allPosts = Object.values(modules)
   .map((m) => ({ url: m.url, ...m.frontmatter }))
-  .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  .sort((a, b) => Number(a.number) - Number(b.number));
 
 // Caminho B: a entrada mostra só os mais recentes; o arquivo tem tudo.
 const RECENTES = 6;
