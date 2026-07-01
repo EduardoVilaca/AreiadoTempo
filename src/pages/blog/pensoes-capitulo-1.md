@@ -3,6 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "O Dogma da Sustentabilidade"
 description: "Discute-se a 'sustentabilidade' das pensões com um livro-razão escolhido a dedo, mudam-se as regras a quem já não pode reagir, e trata-se a pensão — fruto de uma vida de mérito — como riqueza a expiar. Primeiro de uma série."
 pubDate: "2026-06-26"
+caderno: "01"
 number: "01"
 ---
 

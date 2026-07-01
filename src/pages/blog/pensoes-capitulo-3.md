@@ -3,6 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "A Caixa Cheia"
 description: "Congelam e corroem as pensões mais altas em nome da sustentabilidade — enquanto o sistema fecha o ano com o maior excedente desde 2010 e a almofada das pensões supera os 40 mil milhões. E essa almofada, por lei, é obrigada a financiar o Estado. Terceiro de uma série."
 pubDate: "2026-07-01"
+caderno: "01"
 number: "03"
 ---
 

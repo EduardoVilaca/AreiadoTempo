@@ -7,12 +7,23 @@ const modules = import.meta.glob('./blog/*.md', { eager: true });
 
 const allPosts = Object.values(modules)
   .map((m) => ({ url: m.url, ...m.frontmatter }))
-  .sort((a, b) => Number(a.number) - Number(b.number));
+  .sort((a, b) =>
+  Number(b.caderno) - Number(a.caderno) ||   // dossiers: recente → antigo
+  Number(a.number) - Number(b.number)        // capítulos: primeiro → último
+);
+//  .sort((a, b) => Number(a.number) - Number(b.number));
 
 // Caminho B: a entrada mostra só os mais recentes; o arquivo tem tudo.
-const RECENTES = 6;
-const posts = allPosts.slice(0, RECENTES);
-const haMais = allPosts.length > RECENTES;
+// const RECENTES = 6;
+// const posts = allPosts.slice(0, RECENTES);
+// const haMais = allPosts.length > RECENTES;
+
+const cadernoAtual = allPosts.length
+  ? allPosts.filter((p) => p.caderno === allPosts[0].caderno)
+  : [];
+const posts = cadernoAtual;
+const haMais = allPosts.length > cadernoAtual.length;
+
 ---
 
 <BaseLayout>

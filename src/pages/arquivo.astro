@@ -7,7 +7,11 @@ const modules = import.meta.glob('./blog/*.md', { eager: true });
 
 const posts = Object.values(modules)
   .map((m) => ({ url: m.url, ...m.frontmatter }))
-  .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  .sort((a, b) =>
+  Number(b.caderno) - Number(a.caderno) ||   // dossiers: recente → antigo
+  Number(a.number) - Number(b.number)        // capítulos: primeiro → último
+);
+// .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 ---
 
 <BaseLayout title="Arquivo" description="Todos os ensaios do Areia do Tempo, por ordem cronológica.">

@@ -3,6 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Quem Mudou as Regras"
 description: "A escolha do método de cálculo mais favorável foi criada e depois enterrada — e não foi um partido só a fazê-lo. A cronologia dos diplomas, com nomes, datas e artigos, desfaz a narrativa cómoda de que os cortes nas pensões são culpa de um lado. Segundo de uma série."
 pubDate: "2026-07-01"
+caderno: "01"
 number: "02"
 ---
 
