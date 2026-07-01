@@ -75,11 +75,11 @@ A questão que abre esta série não é, portanto, "o sistema é sustentável?".
 ### Notas e fontes
 
 - **Estrutura e financiamento; recurso a outras fontes além das contribuições:** Lei n.º 4/2007, de 16 de janeiro (artigos 54.º, 56.º, 92.º); Tribunal Constitucional, Acórdão n.º 187/2013.
-- **Regra de 1980 (2% por ano; máximo 80% aos 40 anos):** regime anterior ao Decreto-Lei n.º 329/93.
+- **Regra de 1980 (2% por ano; máximo 80% aos 40 anos):** taxa de formação do regime anterior ao Decreto-Lei n.º 329/93. Este último — o Decreto-Lei n.º 329/93, de 25 de setembro — é que introduz a remuneração de referência pelos 10 melhores dos últimos 15 anos, base da atual componente P1.
 - **Taxa de substituição (69,4% em 2022; ~90% em 2040; 38,5% em 2050) e explicação do efeito CGA:** *Ageing Report 2024*, country fiche de Portugal (Tabela 18); Banco de Portugal (~70% para novos pensionistas).
 - **Atualização por escalões; congelamento das pensões mais altas; suspensão em 8 de 16 anos:** Lei n.º 53-B/2006; Decreto-Lei n.º 187/2007; Portaria n.º 480-B/2025/1; análise do Conselho das Finanças Públicas.
-- **Cálculo P1/P2, taxa de formação 2%–2,3% e teto de 12 IAS sobre a P1 (apenas para inscritos até 2001):** Decreto-Lei n.º 187/2007, artigos 32.º, 33.º e 101.º.
-- **Abolição da tripla garantia (opção pela fórmula mais favorável):** Decreto-Lei n.º 35/2002 (artigos 12.º a 14.º), substituído pelo Decreto-Lei n.º 187/2007; fundamentação no Acordo sobre a Reforma da Segurança Social (2006).
+- **Cálculo P1/P2, remuneração de referência, taxa de formação e teto de 12 IAS sobre a P1 (apenas para inscritos até 2001):** Decreto-Lei n.º 187/2007 — remuneração de referência no artigo 28.º (n.os 1 e 2 para toda a carreira; n.os 3 e 4 para os 10 melhores dos últimos 15); taxa de formação (2%–2,3%) nos artigos 29.º a 31.º; valor da pensão calculada sobre toda a carreira (P2) no artigo 32.º; fórmula proporcional no artigo 33.º; componente dos 10 melhores (P1) no artigo 34.º; teto de 12 IAS no artigo 101.º.
+- **Abolição da tripla garantia (opção pela fórmula mais favorável):** Decreto-Lei n.º 35/2002 (artigos 12.º a 14.º), substituído pelo Decreto-Lei n.º 187/2007 (fórmula proporcional imperativa do artigo 33.º); exclusão da garantia do artigo 13.º do Decreto-Lei n.º 35/2002 confirmada pelo Tribunal Constitucional, Acórdão n.º 423/2016; fundamentação no Acordo sobre a Reforma da Segurança Social (2006).
 - **Inexistência de teto no valor final da pensão; proposta de plafonamento de 4.500 € (junho de 2026):** iniciativa legislativa e debate parlamentar em curso.
 - **Ausência de equivalência contribuições/pensão (repartição, não capitalização):** Tribunal Constitucional, Acórdãos n.os 575/2014 e 52/2024.
 - **Tributação das pensões em IRS (categoria H, marginais até 48%) e regime dos 8% nos PPR:** Código do IRS; Estatuto dos Benefícios Fiscais, artigo 21.º.
