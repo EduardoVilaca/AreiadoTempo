@@ -73,7 +73,7 @@ A verdade é mais desconfortável, e é a verdade que interessa a esta série: i
 
 ### Notas do autor
 
-1. **Sobre as fontes.** Dada a opacidade que rodeia estas matérias, algumas das notas e fontes acima poderão conter imprecisões. As atribuições de cada diploma ao respetivo governo são, porém, factos publicados no *Diário da República* e verificáveis por qualquer leitor.
+1. **Sobre as fontes.** Dada a opacidade que rodeia estas matérias, algumas das notas e fontes acima poderão conter imprecisões. As atribuições de cada diploma ao respetivo governo são, porém, factos que qualquer leitor pode confirmar no *Diário da República*.
 
 2. **Sem palavras na boca de ninguém.** Este texto atribui leis a governos e a partidos, que é matéria de facto. Não cita nem inventa declarações de qualquer responsável político; onde há aspas, são do diploma ou do acórdão, não de uma pessoa.
 
