@@ -11,6 +11,8 @@ Três capítulos a descrever a doença: o dogma que trata a sustentabilidade com
 
 Deixo aqui três reparações concretas. Nenhuma é uma utopia — cada uma tem um precedente que o próprio Estado já criou, para outra gente, quando quis. E, no fim, ponho-lhes o preço. Porque uma proposta que se atreve a dizer quanto custa é mais séria do que uma que só reclama — e porque, como se verá, a conta é a prova final de que o problema nunca foi o dinheiro.
 
+E uma distinção, para que não se confunda a reparação com a recusa de qualquer reforma. O que aqui proponho vale para o contrato já feito — para quem descontou uma vida inteira sob uma promessa e já não tem como reagir. Para os novos contribuintes, que se discuta o melhor modelo e que se obtenham consensos; mas, acima de tudo, com a transparência que merecem e com o compromisso de honrar o que for acordado. Reformar o futuro, com verdade e à vista de todos, é legítimo. Reescrever o passado a quem já não pode mudar de jogo, não.
+
 ## O princípio, antes das medidas
 
 Antes das três medidas, o princípio que as ordena, porque é ele que responde à crítica de toda a série. Se o mal foi a discricionariedade — a regra cumprida em metade dos anos, a sustentabilidade invocada num sentido e no seu contrário —, então a reparação não é dar mais dinheiro. É dar **um contrato que se cumpre**: um modelo transparente na fórmula, previsível no tempo, e honrado pelas instituições que o assinam. Um pensionista não pede favores; pede que a palavra dada ao longo de uma carreira valha o que valia quando foi dada.
