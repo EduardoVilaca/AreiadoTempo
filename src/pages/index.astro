@@ -13,11 +13,7 @@ const allPosts = Object.values(modules)
 );
 //  .sort((a, b) => Number(a.number) - Number(b.number));
 
-// Caminho B: a entrada mostra só os mais recentes; o arquivo tem tudo.
-// const RECENTES = 6;
-// const posts = allPosts.slice(0, RECENTES);
-// const haMais = allPosts.length > RECENTES;
-
+// Caminho B: a entrada mostra só os mais recentes; o arquivo tem tudo
 const cadernoAtual = allPosts.length
   ? allPosts.filter((p) => p.caderno === allPosts[0].caderno)
   : [];

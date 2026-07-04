@@ -4,8 +4,6 @@ import { formatDateShort } from '../utils/date.js';
 
 // Lista cronológica completa de todos os ensaios.
 const modules = import.meta.glob('./blog/*.md', { eager: true });
-
-const modules = import.meta.glob('./blog/*.md', { eager: true });
 const allPosts = Object.values(modules).map((m) => ({ url: m.url, ...m.frontmatter }));
 
 // Agrupar por caderno; dentro de cada um, ordenar por número (crescente);
