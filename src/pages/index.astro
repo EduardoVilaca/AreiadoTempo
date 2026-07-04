@@ -23,6 +23,7 @@ const cadernoAtual = allPosts.length
   : [];
 const posts = cadernoAtual;
 const haMais = allPosts.length > cadernoAtual.length;
+const cadernoTitulo = posts[0]?.cadernoTitulo ?? '';
 
 ---
 
@@ -39,7 +40,8 @@ const haMais = allPosts.length > cadernoAtual.length;
       </p>
     </section>
 
-    <section class="index" aria-label="Arquivo de ensaios">
+    <section class="index" aria-label="Ensaios">
+      {cadernoTitulo && <h2 class="index__caderno">{cadernoTitulo}</h2>}
       <ol class="index__list">
         {posts.map((post) => (
           <li class="entry">
@@ -142,4 +144,14 @@ const haMais = allPosts.length > cadernoAtual.length;
     text-decoration: none;
   }
   .index__more a:hover { text-decoration: underline; }
+    .index__caderno {
+      font-family: var(--mono);
+      font-size: 0.8rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent-deep);
+      margin: 0 0 1.5rem;
+      padding-bottom: 1.2rem;
+      border-bottom: 1px solid var(--line-strong);
+    }
 </style>

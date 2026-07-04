@@ -1,117 +1,81 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "A Caixa Cheia"
-description: "Congelam e corroem as pensões mais altas em nome da sustentabilidade — enquanto o sistema fecha o ano com o maior excedente desde 2010 e a almofada das pensões supera os 40 mil milhões. E essa almofada, por lei, é obrigada a financiar o Estado. Terceiro de uma série."
+title: "Quem Mudou as Regras"
+description: "A escolha do método de cálculo mais favorável foi criada e depois enterrada — e não foi um partido só a fazê-lo. A cronologia dos diplomas, com nomes, datas e artigos, desfaz a narrativa cómoda de que os cortes nas pensões são culpa de um lado. Terceiro de uma série."
 pubDate: "2026-07-01"
 caderno: "01"
+cadernoTitulo: "Pensões: Reparar o Passado"
 number: "03"
 ---
 
-No primeiro capítulo chamei mito à "caixa fechada". Disse que a conta da sustentabilidade escolhe um livro-razão a dedo e apresenta como lei da natureza o que é uma escolha política. Prometi números. Aqui estão — e são mais eloquentes do que eu esperava.
+No capítulo anterior escrevi que se mudam as regras a quem já não pode reagir. É uma acusação. E uma acusação sem nomes é só um queixume. Neste capítulo dou os nomes — não os das pessoas, mas os dos governos e das leis que os assinaram, que é o que se pode verificar num *Diário da República* e não se pode desmentir com retórica.
 
-O sistema que alegadamente não tem como atualizar as pensões fechou 2024 com o **maior excedente desde 2010**. E a reserva que devia proteger as pensões ultrapassou os **quarenta mil milhões de euros**. Mostro primeiro o cofre. E depois a tesoura que, com o cofre cheio, continua a cortar.
+Faço-o por um motivo concreto. Há uma narrativa confortável, repetida de tempos a tempos, segundo a qual os cortes nas pensões são obra da direita e da austeridade, e a esquerda é a força que protege os reformados. É uma história limpa, com heróis e vilões arrumados. O problema é que não sobrevive à leitura dos diplomas. A regra que mais me penaliza — a que me tirou a possibilidade de ser calculado pelo método mais favorável — não foi enterrada por um governo de austeridade. Vejamos por quem.
 
-## O cofre cheio
+## 1993 — a regra nasce
 
-Em 2024, a Segurança Social registou um excedente orçamental de **5.595 milhões de euros** — o mais elevado, pelo menos, desde 2010, e o quinto ano consecutivo de saldo positivo. Só o sistema previdencial, o que paga as pensões substitutivas do salário, gerou um excedente de 5.840 milhões. A receita cresceu mais de 10% num só ano, impulsionada quase exclusivamente pelas contribuições — reflexo do emprego e da subida dos salários.
+A regra dos **10 melhores dos últimos 15 anos** — aquela que hoje forma a componente P1 da minha pensão — nasce com o **Decreto-Lei n.º 329/93, de 25 de setembro**, aprovado pelo governo do **PSD de Aníbal Cavaco Silva**. Era uma regra favorável a quem tem uma carreira ascendente: premiava o período em que, tipicamente, os salários são mais altos. Guarde-se este nome, porque ele vai reaparecer — noutro papel — catorze anos depois.
 
-Traduzindo, sem rodeios: aqui e agora, o sistema recebe mais do que paga. A "insustentabilidade", quando falamos do presente, não é uma verdade contabilística — é uma projeção sobre o futuro, transportada para o presente como se já cá estivesse, para justificar o que se corta hoje.
+## 2002 — a escolha é criada
 
-## A almofada dos quarenta mil milhões
+Com a reforma da segurança social de 2000-2002, chega a nova filosofia: calcular a pensão sobre *toda* a carreira, e não só sobre os melhores anos. Mas o legislador de então não a impôs de repente a quem já tinha meia vida de descontos feitos sob a regra antiga. Criou uma proteção.
 
-E há mais do que um excedente anual. Há uma reserva. O **Fundo de Estabilização Financeira da Segurança Social** (FEFSS), a "almofada" do sistema, criado em 1989 com uns modestos 216 milhões, fechou 2025 com cerca de **41,9 mil milhões de euros** — o equivalente a quase **25 meses de pensões**, mais de dois anos de cobertura. Cresceu perto de seis mil milhões nesse ano, e o próprio Governo fez a maior transferência de saldos de sempre para o reforçar. As projeções oficiais anexas ao Orçamento apontam para 68 mil milhões em 2030 e 113 mil milhões em 2040.
+O **Decreto-Lei n.º 35/2002, de 19 de fevereiro**, no seu **artigo 13.º**, deu aos inscritos até ao final de 2001 o direito de optar pelo **montante mais favorável** entre os métodos de cálculo — incluindo o cálculo puro pelos 10 melhores. Era a chamada garantia da pensão mais favorável. E foi um governo do **PS, o de António Guterres**, que a estabeleceu. Registe-se o facto sem partidarismo: aqui, a proteção veio da esquerda.
 
-Cofre cheio, portanto, *e* almofada a engordar. Um sistema que fosse à falência não teria dois anos de pensões guardados num fundo que bate recordes ano após ano. A palavra *sustentabilidade*, dita sobre este pano de fundo, deixa de descrever uma emergência e passa a nomear uma escolha: a de conter as pensões — sobretudo as mais altas — não porque não haja dinheiro, mas porque se decidiu que assim seja.
+## 2007 — a escolha é suprimida
 
-## A almofada que financia o Estado
+Aqui está o momento decisivo, e o mais incómodo para a narrativa fácil.
 
-E aqui a história ganha uma segunda camada, mais incómoda. Para que serve, ao certo, esta almofada?
+O **Decreto-Lei n.º 187/2007, de 10 de maio**, aprovado pelo governo do **PS de José Sócrates**, fez três coisas de uma vez. Primeiro, no **artigo 33.º**, tornou a fórmula proporcional **obrigatória** para todos os inscritos até 2001 — acabando com a escolha. O Tribunal Constitucional, no Acórdão n.º 423/2016, descreve o efeito sem eufemismos: com a fórmula proporcional aplicável imperativamente, ficou excluída a garantia do montante de pensão mais favorável que o artigo 13.º do Decreto-Lei n.º 35/2002 havia estabelecido. Segundo, no **artigo 101.º**, introduziu o **teto dos 12 IAS** sobre a componente P1 — o corte que ainda hoje me tira uma parte substancial da pensão. Terceiro, criou o **fator de sustentabilidade**, o coeficiente que faz a pensão encolher à medida que a esperança de vida aumenta.
 
-Por lei, o FEFSS é obrigado a aplicar **pelo menos metade da carteira em dívida pública portuguesa**. Na prática, cerca de três quartos do fundo estão em dívida pública, mais de metade dela nacional. Isto faz da reserva das pensões um dos maiores **credores e financiadores do Estado português**: o dinheiro que devia render para segurar as pensões é canalizado, em boa parte, para emprestar ao próprio Estado.
+A justificação oficial está escrita no próprio diploma e nos seus trabalhos preparatórios: a garantia da pensão mais favorável traduzia-se num acréscimo de despesa que neutralizava as poupanças pretendidas. Por outras palavras — proteger quem tinha carreiras altas custava dinheiro, e por isso removeu-se a proteção. Tudo isto vertido do Acordo sobre a Reforma da Segurança Social, subscrito em 2006 por quase todos os parceiros sociais.
 
-Não é uma opção neutra. A entidade que gere o fundo — o próprio IGFCSS — reconhece que a obrigação de manter metade da carteira em dívida portuguesa **custou ao fundo mais de 2% ao ano** nos cinco anos até 2023. São milhares de milhões que a almofada não rendeu, precisamente por estar a segurar o financiamento do Estado a baixo custo. O Tribunal de Contas e o Conselho das Finanças Públicas já criticaram esta sobre-exposição. E o teto que permite concentrar até 90% da carteira em dívida pública foi fixado em 2013, pelo governo PSD/CDS de Passos Coelho, no auge da crise — quando o Estado mais precisava de compradores cativos para a sua dívida.
+E há um detalhe que resume melhor do que qualquer discurso a natureza transversal disto: o Decreto-Lei n.º 187/2007 foi referendado pelo Primeiro-Ministro José Sócrates e **promulgado pelo Presidente da República Aníbal Cavaco Silva**. O mesmo Cavaco Silva que, como chefe de governo em 1993, criara a regra favorável dos 10 melhores, promulgava agora, como Presidente, a lei que a esvaziava. A esquerda a legislar o corte, a direita a promulgá-lo. Não há aqui um lado limpo.
 
-Junte-se a isto um segundo mecanismo, mais subtil. O excedente da Segurança Social não é levado para os cofres do Tesouro — fica no sistema, vai para o FEFSS. Mas, por consolidação das contas públicas, esse excedente **melhora o saldo global do Estado**: Lisboa apresenta um défice menor, ou um superávit maior, graças ao dinheiro que os descontos dos trabalhadores geram. O excedente serve, assim, para embelezar as contas de quem, ao mesmo tempo, invoca a penúria para congelar pensões.
+## 2017 — a aceleração de rastilho longo
 
-Sejamos justos com o outro lado, porque o argumento só é forte se for honesto: o fundo é público, está a crescer, não está a ser privatizado, e o Governo diz querer reduzir a sobre-exposição à dívida nacional, seguindo o parecer dos organismos independentes. O mandato conservador de uma reserva de pensões também tem defesa — não se gere a almofada dos reformados como um fundo de risco. Nada disto é um assalto ao cofre. Mas também nada disto apaga o essencial: a reserva construída para proteger as pensões é obrigada a financiar o Estado, sacrificando rendimento, enquanto o excedente dos contribuintes serve para maquilhar o défice. Não é roubo. É algo mais discreto e mais durável — é *uso*.
+O 187/2007 trazia ainda um rastilho de detonação retardada. Dentro do mesmo artigo 33.º, a lei distingue quem se reforma até 2016 de quem se reforma a partir de 2017. Para os primeiros, a componente favorável dos 10 melhores (P1) é ponderada pelos anos de carreira até **2006**. Para os segundos, apenas pelos anos até **2001**. Na prática, quem se reforma depois de 2017 vê o seu P1 pesar por menos cinco anos de carreira — mais peso empurrado para a componente de toda a carreira, invariavelmente mais baixa para quem teve bons salários no fim.
 
-## O défice que está sempre a chegar (e a recuar)
+Reparemos no mecanismo: a regra que só morde em 2017 foi escrita em 2007. Foi desenhada, uma década antes, para se aplicar a pessoas que, quando ela finalmente as atingisse, já teriam a carreira feita e nenhuma forma de reagir. É a definição exata dessa acusação.
 
-A esta altura, o defensor do sistema responde: "tudo isso é o presente; o problema é o futuro — a demografia, o envelhecimento." E tem parte de razão, por isso não lhe fujo. As projeções oficiais mostram, de facto, défices futuros. O honesto é dizer quais, e quão grandes.
+## 2011-2015 — a austeridade
 
-No cenário central do Governo e da Comissão Europeia, o sistema previdencial mantém-se excedentário ainda por uns anos e só entra em défice no final da década de 2030. O pico desse défice é modesto: cerca de 0,5% a 0,6% do PIB, algures nos anos 2040. A Comissão projeta a despesa bruta com pensões a subir de 12,8% do PIB em 2025 para 15,1% em 2045 — pressão real, mas gerível: a mesma Comissão conclui que o sistema é sustentável, com o FEFSS, durante pelo menos 45 anos.
+É aqui, e só aqui, que a narrativa da "direita que corta" tem a sua parte de verdade. O governo do **PSD e do CDS de Pedro Passos Coelho**, nos anos da *troika*, congelou as pensões, suspendeu o regime de flexibilização da idade de reforma e assistiu (por efeito das regras herdadas e agravadas) a um fator de sustentabilidade que chegou perto de 0,88 em 2014 — um corte superior a 11% só por esse coeficiente. Foram cortes reais e dolorosos.
 
-Há duas coisas a reter sobre estes números. A primeira é que a data da "rutura" nunca para de recuar. O relatório de 2015 anunciava-a para 2019; o Orçamento de 2017 adiou-a para 2023; o de 2023 para 2030; as últimas projeções apontam 2033, com o fundo positivo durante décadas. Uma catástrofe que se afasta de cada vez que a medimos não é uma catástrofe — é um argumento.
+Mas há que ser preciso sobre o *tipo* de corte. A austeridade cortou por **congelamento e por fator de sustentabilidade** — não mexeu na fórmula de cálculo que me tirou a escolha do método. Essa fórmula, o teto dos 12 IAS, a arquitetura estrutural, já estava fechada desde 2007. A direita apertou o torniquete; mas o torniquete tinha sido instalado antes, por outro governo.
 
-A segunda é a escala. Um défice de 0,6% do PIB no seu pico, daqui a vinte anos, é uma fração de quase tudo. É menos de um sétimo dos 5% do PIB que o país se comprometeu a gastar em defesa até 2035, na cimeira da NATO na Haia. É uma gota na despesa pública total, que ronda 45% do PIB. Dizer que não há como suportar 0,6% do PIB, num país que encontra 5% para a defesa, não é um problema de contas — é um problema de prioridades. E prioridades são escolhas políticas, não leis da natureza.
+## 2017-2019 — as correções
 
-Quanto à demografia, os números acabam de ser reescritos — e a favor do argumento, não contra. O INE reviu em alta a população residente para 11,4 milhões em 2025 (mais 7,8% do que em 2021), depois de anos a subcontar grosseiramente os imigrantes, que são hoje 14% da população. Foi essa população, jovem e em idade ativa, que encheu o cofre da Segurança Social. E não trouxe só contribuintes: cerca de um terço dos nascimentos em Portugal são já de mães estrangeiras — sem esse contributo, a natalidade não teria parado de cair. A imigração aliviou a pressão demográfica e adiou o problema. Não o anulou — os imigrantes também envelhecem, e o fluxo já abrandou —, mas a narrativa do país que se despovoa e não terá quem pague as pensões está, hoje, desmentida pelos próprios dados.
+E depois o pêndulo voltou. Um governo do **PS, o de António Costa**, corrigiu parte do estrago através dos Decretos-Leis n.º 126-B/2017, n.º 73/2018 e n.º 119/2018, eliminando o fator de sustentabilidade para as carreiras longas e acabando com a dupla penalização das reformas antecipadas. O mesmo partido que suprimira a escolha em 2007 repunha uma proteção em 2018. A coerência ideológica, como se vê, não é o forte de nenhum lado nesta matéria.
 
-O verdadeiro problema é outro, e a mesma revisão do INE expô-lo: ao dividir a riqueza por mais de meio milhão de residentes do que se julgava, o PIB por habitante caiu para cerca de 77% da média europeia — a sexta posição mais baixa da União. Crescemos em número, não em valor por pessoa. O desafio não é a demografia; é a produtividade. E a produtividade constrói-se retendo e premiando quem produz mais — exatamente o contrário do que faz uma política que corta as pensões do mérito e empurra os quadros qualificados para o estrangeiro. Quem corrói o mérito em nome da sustentabilidade está a minar a única variável de que a sustentabilidade, a longo prazo, depende.
+## O jogo das culpas
 
-Fica, então, a pergunta que arruma o assunto: se o sistema era sustentável até 2055 — como o próprio Governo escreveu no Orçamento de 2023 —, com que autoridade invocou ele a sustentabilidade, dois meses depois, para não aplicar a atualização das pensões nesse mesmo ano? A mesma palavra serve para tranquilizar e para cortar, conforme o dia. É essa a definição de um dogma: uma verdade que se invoca nos dois sentidos e não se prova em nenhum.
+Ponhamos então a lista em cima da mesa, sem cor a mais nem a menos:
 
-## A tesoura, com o cofre cheio
+A regra favorável dos 10 melhores — **PSD**, Cavaco Silva, 1993. A criação da escolha do método mais favorável — **PS**, Guterres, 2002. A supressão dessa escolha, o teto dos 12 IAS e o fator de sustentabilidade — **PS**, Sócrates, 2007. Os congelamentos e a aplicação mais dura na austeridade — **PSD/CDS**, Passos Coelho, 2011-2015. As correções para as carreiras longas — **PS**, Costa, 2017-2019.
 
-É contra este pano de fundo — excedente recorde, almofada a transbordar — que se deve ler o que o capítulo anterior descreveu: a regra de atualização das pensões da Lei n.º 53-B/2006, que dá tanto menos quanto mais alta é a pensão, e **congela por completo as pensões acima de 12 IAS**. Em 2026 viu-se a escada inteira: o escalão mais baixo foi atualizado acima da inflação (2,80%); o de 2 a 6 IAS ficou a par dela (2,27%, sem perda nem ganho reais); o de 6 a 12 IAS ficou ligeiramente abaixo (2,02%); e o topo, acima de 12 IAS, foi congelado. A perda de poder de compra não é uniforme: aprofunda-se à medida que a pensão sobe e torna-se total no topo — ano após ano, sempre em nome da sustentabilidade.
+Quem quiser reduzir isto a "a direita corta, a esquerda protege" tem de explicar por que razão o corte mais estrutural de todos — o que fechou a porta à fórmula mais favorável e plantou o teto e o fator de sustentabilidade — saiu de um governo de esquerda, em 2007, sem austeridade nenhuma a servir de pretexto. E quem quiser o argumento simétrico, "a esquerda é que corta", tem de explicar os congelamentos da austeridade e a regra favorável de origem, ambos da direita. Nenhum dos dois slogans sobrevive à cronologia.
 
-Mas a sustentabilidade, vimo-lo agora, tem dois anos de pensões guardados no banco e um excedente recorde na mão. O congelamento das pensões altas não rende ao sistema o suficiente para o salvar de coisa nenhuma — o sistema não precisa de ser salvo hoje. Rende outra coisa: rende a aparência de rigor, e a poupança marginal que engorda a almofada que, por sua vez, financia o Estado. A tesoura não corta por necessidade. Corta por escolha, e chama-lhe virtude.
+A verdade é mais desconfortável, e é a verdade que interessa a esta série: isto nunca foi uma luta entre esquerda e direita. Foi um **consenso**. O Acordo de 2006 que deu origem ao 187/2007 foi subscrito por quase todo o arco social e político. As regras que hoje penalizam quem contribuiu mais não foram impostas por uma cor contra a outra — foram acordadas por quase todas. E a palavra que tornou o acordo possível, a que calou a objeção antes de ela se formar, foi sempre a mesma: *sustentabilidade*.
 
-## Cumprida em metade dos anos
-
-E nem sequer é uma regra a sério. Entre 2008 e 2023 — dezasseis anos — a regra de atualização foi **aplicada em oito e suspensa noutros oito**. As suspensões têm nomes, e não são de um lado só: 2011, pelo governo do PS de José Sócrates; 2012 a 2015, pelo governo PSD/CDS de Pedro Passos Coelho, nos anos da *troika*; e 2023, de novo pelo PS, então de António Costa, na crise inflacionista. O próprio IAS, base de todos os escalões, esteve congelado nos 419,22 € de 2009 a 2016. Chamaram "regra" ao que foi, em metade do tempo, exceção — decidida quando o Orçamento apertava, governasse quem governasse.
-
-## O que vem aí
-
-E o futuro que se prepara confirma o diagnóstico. O Governo repete que as pensões são "sagradas" e que nunca as cortará — mas a escada de 2026 que acabámos de ver diz o contrário: protege-se o escalão mais baixo, e a partir daí a atualização encolhe degrau a degrau, até congelar as pensões do topo. A promessa é verdadeira apenas na base que rende votos.
-
-Por baixo do discurso, monta-se um modelo novo. A Comissão Europeia recomenda a Portugal, nas orientações do Semestre Europeu de 2026, "promover regimes complementares de pensões" — e diz porquê, sem pudor: porque isso permite "mobilizar poupança de longo prazo para investimento produtivo". Traduzindo: empurrar o cidadão para pilares privados de reforma serve também para canalizar a sua poupança para financiar a economia. O Fundo Monetário Internacional, na mesma linha, pede uma reforma mais ampla do sistema e mais limites às pensões de sobrevivência. E o próprio Governo assume o rumo — incentivar a poupança complementar, rever a gestão do FEFSS, preparar cada um para garantir por si a reforma que o sistema público sinaliza que dará cada vez menos. Uma comissão de peritos já produziu um Livro Verde sobre a matéria, e um novo grupo de trabalho deverá entregar, até meados de 2026, o relatório que servirá de base às decisões.
-
-E há o gesto que ilumina todos os outros. Em junho de 2026, no mesmo fôlego em que jurava que as pensões eram sagradas, o primeiro-ministro anunciou a criação de um fundo soberano — gerido pela agência da dívida pública — para o Estado entrar no capital de empresas estratégicas: banca, energia, infraestruturas, comunicações. Seja dito com rigor: este fundo **não é pago pela almofada das pensões**, e quem o afirmasse enganaria o leitor. É um veículo de participações do Estado, não um desvio da reserva dos reformados. Mas o contraste é a tese deste capítulo, resumida num só domingo: há ambição, instrumentos e dinheiro para o Estado entrar no capital das empresas; para o pensionista, a mensagem é "a tua pensão tem teto — poupa por ti".
-
-Juntemos as peças e vejamos o desenho. A almofada das pensões, obrigada por lei a financiar o Estado. As pensões complementares, promovidas — por Bruxelas e por Lisboa — para financiar a economia. Um fundo soberano, para levar capital do Estado às empresas. Em todas, a poupança e o esforço convergem para o mesmo destino: o financiamento da economia e do Estado. Só num sentido é que o fluxo se aperta — o da promessa feita ao indivíduo, que se congela, se limita e se transfere para um produto que ele agora tem de comprar, com o risco a mudar de ombros: do Estado para o cidadão. Chamar "proteção" a isto é o último eufemismo de uma longa série.
-
-## O que um patrão pode prometer
-
-Deixo o capítulo com a pergunta que me parece a mais desconfortável de todas, e que nenhum discurso sobre sustentabilidade responde.
-
-Uma pensão é salário diferido: trabalho de hoje, pago amanhã. Nesse contrato, o devedor é o Estado. Ora, que discurso de motivação pode um empregador honestamente fazer aos seus melhores quadros — "invistam, especializem-se, construam aqui uma carreira, o sistema recompensa o mérito no fim" — quando o devedor desse contrato quebra a palavra em metade dos anos, e o faz sentado sobre um excedente recorde e uma almofada de quarenta mil milhões? Um credor que só é pago quando o devedor quer, e a quem o devedor pede paciência enquanto exibe o cofre cheio, aprende depressa a única lição que interessa: não diferir, não confiar e, se puder, levar o seu mérito para onde a palavra dada se cumpra.
-
-Não é a demografia que esvazia a confiança. É a discricionariedade. O cofre está cheio; o problema nunca foi esse. O problema é a quem se decide, com o cofre cheio, apertar a tesoura — e o nome bonito que se dá a essa decisão.
+É por isso que não adianta esperar que a próxima eleição conserte isto. Não há um vilão a expulsar. Há um consenso a interpelar — o consenso de que o mérito, quando chega a pensão, é uma despesa a conter e não um direito a honrar. Mudaram-se as regras a quem já não podia reagir, é certo. Mas mudaram-nas, a espaços, quase todos.
 
 ---
 
 ### Notas e fontes
 
-- **Excedente da Segurança Social em 2024 (5.595 M€; maior desde 2010; 5.º ano consecutivo; sistema previdencial +5.840 M€):** Conselho das Finanças Públicas, *Evolução Orçamental da Segurança Social e da CGA em 2024* (Relatório n.º 03/2025, maio de 2025).
-- **FEFSS: ~41,9 mil milhões no fim de 2025, ~24,8 meses de pensões; ~35,9 mil milhões no fim de 2024; criado em 1989 (Decreto-Lei n.º 259/89) com 216 M€:** IGFCSS/Ministério do Trabalho, Solidariedade e Segurança Social; projeções do relatório de sustentabilidade anexo ao Orçamento do Estado.
-- **Composição da carteira do FEFSS (mínimo legal de 50% em dívida pública nacional; ~três quartos em dívida pública; papel de credor e financiador do Estado):** Conselho das Finanças Públicas, Publicação Ocasional n.º 02/2024; Tribunal de Contas, pareceres sobre a Conta Geral do Estado.
-- **Custo da sobre-exposição à dívida pública (mais de 2% ao ano nos cinco anos até 2023):** Instituto de Gestão de Fundos de Capitalização da Segurança Social (IGFCSS), em resposta ao Grupo Parlamentar do CDS-PP.
-- **Teto de 90% de concentração em dívida pública fixado em 2013 (governo PSD/CDS de Pedro Passos Coelho):** portaria de julho de 2013.
-- **Receitas consignadas ao FEFSS (adicional ao IMI, adicional de solidariedade da banca, 2% do IRC, saldos do sistema previdencial):** Lei de Bases da Segurança Social; Código do IMI, artigo 1.º.
-- **Regra de atualização das pensões por escalões e congelamento acima de 12 IAS:** Lei n.º 53-B/2006, de 29 de dezembro, artigos 4.º a 7.º.
-- **Aplicação da regra em 8 de 16 anos (2008-2023) e cronologia das suspensões (2011, PS; 2012-2015, PSD/CDS; 2023, PS); IAS congelado de 2009 a 2016:** Conselho das Finanças Públicas; diplomas orçamentais dos respetivos anos.
-- **Projeções de longo prazo (défice do sistema previdencial a partir do final da década de 2030; pico de cerca de 0,5%-0,6% do PIB nos anos 2040; despesa bruta com pensões de 12,8% do PIB em 2025 para 15,1% em 2045; sustentabilidade assegurada por, pelo menos, 45 anos):** Comissão Europeia, *2024 Ageing Report* e recomendações do Semestre Europeu de 2026; relatório sobre a sustentabilidade financeira da Segurança Social anexo ao Orçamento do Estado.
-- **Recuo sucessivo da data prevista para os primeiros saldos negativos (2019 → 2023 → 2030 → 2033):** relatórios de sustentabilidade anexos aos Orçamentos do Estado de 2016, 2017, 2023 e seguintes.
-- **Meta de 5% do PIB em defesa até 2035:** Declaração da Cimeira da NATO na Haia, junho de 2025.
-- **População residente de 11,4 milhões em 2025 (+7,8% face a 2021; 14% de nacionalidade estrangeira) e contributo das mães estrangeiras para a natalidade (cerca de um terço dos nascimentos):** INE, Estimativas de População Residente 2025 e Estatísticas Vitais.
-- **PIB per capita em cerca de 77% da média da UE após a revisão da população:** Eurostat e INE.
-- **Escada de atualização das pensões em 2026 (2,80% até 2 IAS; 2,27% de 2 a 6 IAS, igual à inflação; 2,02% de 6 a 12 IAS; congelamento acima de 12 IAS):** Portaria n.º 480-B/2025/1, de 30 de dezembro.
-- **Recomendação da Comissão Europeia para promover regimes complementares de pensões, com o objetivo de "mobilizar poupança de longo prazo para investimento produtivo":** Semestre Europeu de 2026, pacote da primavera (recomendações específicas a Portugal).
-- **Recomendações do FMI (reforma mais ampla do sistema de pensões; limites às pensões de sobrevivência):** Fundo Monetário Internacional, avaliação ao abrigo do Artigo IV, junho de 2026.
-- **Livro Verde para a sustentabilidade do sistema previdencial e grupo de trabalho com relatório previsto para meados de 2026:** Comissão para a Sustentabilidade da Segurança Social; Gabinete de Estratégia e Planeamento do MTSSS.
-- **Fundo soberano gerido pelo IGCP para participações em empresas estratégicas (banca, energia, infraestruturas, comunicações):** anúncio do primeiro-ministro, junho de 2026.
+- **Origem da regra dos 10 melhores dos últimos 15 anos:** Decreto-Lei n.º 329/93, de 25 de setembro (governo do PSD de Aníbal Cavaco Silva).
+- **Criação da opção pelo montante de pensão mais favorável (tripla garantia):** Decreto-Lei n.º 35/2002, de 19 de fevereiro, artigos 12.º a 14.º (governo do PS de António Guterres).
+- **Supressão da escolha (fórmula proporcional imperativa), teto dos 12 IAS e fator de sustentabilidade:** Decreto-Lei n.º 187/2007, de 10 de maio, artigos 33.º e 101.º (governo do PS de José Sócrates; promulgado pelo Presidente Aníbal Cavaco Silva); exclusão da garantia do artigo 13.º do DL 35/2002 confirmada pelo Tribunal Constitucional, Acórdão n.º 423/2016.
+- **Fundamentação (a garantia mais favorável como acréscimo de despesa):** preâmbulo do Decreto-Lei n.º 187/2007 e Acordo sobre a Reforma da Segurança Social (2006).
+- **Aceleração da transição (ponderação da P1 até 2006 para pensões iniciadas até 2016; até 2001 para pensões iniciadas a partir de 2017):** Decreto-Lei n.º 187/2007, artigo 33.º, n.os 1 e 2.
+- **Austeridade — congelamentos, suspensão da flexibilização e agravamento do fator de sustentabilidade (≈0,88 em 2014):** medidas dos Orçamentos do Estado de 2011-2015 e Decreto-Lei n.º 85-A/2012 (governo do PSD/CDS de Pedro Passos Coelho).
+- **Correções às carreiras longas e eliminação do fator de sustentabilidade nesses casos:** Decretos-Leis n.º 126-B/2017, de 6 de outubro, n.º 73/2018, de 17 de setembro, e n.º 119/2018, de 27 de dezembro (governo do PS de António Costa).
 
 ### Notas do autor
 
-1. **Sobre as fontes.** Dada a opacidade que rodeia estas matérias, algumas das notas e fontes acima poderão conter imprecisões. Os montantes do excedente e do FEFSS são, porém, valores oficiais, publicados pelo Conselho das Finanças Públicas e pela própria Segurança Social.
+1. **Sobre as fontes.** Dada a opacidade que rodeia estas matérias, algumas das notas e fontes acima poderão conter imprecisões. As atribuições de cada diploma ao respetivo governo são, porém, factos que qualquer leitor pode confirmar no *Diário da República*.
 
-2. **Sobre as projeções.** As estimativas de longo prazo variam consoante os pressupostos. O cenário central (Governo e Comissão Europeia) aponta um défice modesto, na ordem de 0,5%-0,6% do PIB; estimativas independentes mais pessimistas (como a da Fundação Francisco Manuel dos Santos) chegam a um pico próximo de 2,8% do PIB. Ainda assim, todas concordam que o FEFSS cobre o défice durante muitos anos e nenhuma aponta para uma rutura iminente.
+2. **Sem palavras na boca de ninguém.** Este texto atribui leis a governos e a partidos, que é matéria de facto. Não cita nem inventa declarações de qualquer responsável político; onde há aspas, são do diploma ou do acórdão, não de uma pessoa.
 
-3. **Justiça para com o contraditório.** Este texto reconhece que o FEFSS é um fundo público, em crescimento, e que o mandato conservador de uma reserva de pensões tem fundamento. Reconhece igualmente que os defensores dos regimes complementares invocam a proteção do próprio reformado contra quebras de rendimento, e que um fundo soberano pode servir a defesa de ativos estratégicos. A crítica não é à existência de nenhum destes instrumentos, mas ao contraste entre a ambição com que se financiam a economia e o Estado e a discricionariedade com que se corrói a pensão contratada ao indivíduo.
-
-4. **Sobre o fundo soberano.** O fundo soberano anunciado em junho de 2026 é um veículo de participações do Estado em empresas, a gerir pela agência da dívida pública. Não é financiado pelo FEFSS nem pelas contribuições para a Segurança Social. É referido aqui pelo contraste de prioridades que evidencia, e não como um desvio da reserva das pensões.
-
-5. **Sem palavras na boca de ninguém.** Atribuem-se leis e decisões a governos e a partidos, matéria de facto publicada no *Diário da República*. Não se inventam declarações; parafraseiam-se apenas posições públicas amplamente noticiadas, como o compromisso, assumido em público, de não cortar pensões.
-
-6. **Anonimato.** Como nos capítulos anteriores, não se revela aqui o valor da pensão do autor.
+3. **Anonimato.** Como no capítulo anterior, não se revela aqui o valor da pensão do autor.

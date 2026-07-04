@@ -5,13 +5,22 @@ import { formatDateShort } from '../utils/date.js';
 // Lista cronológica completa de todos os ensaios.
 const modules = import.meta.glob('./blog/*.md', { eager: true });
 
-const posts = Object.values(modules)
-  .map((m) => ({ url: m.url, ...m.frontmatter }))
-  .sort((a, b) =>
-  Number(b.caderno) - Number(a.caderno) ||   // dossiers: recente → antigo
-  Number(a.number) - Number(b.number)        // capítulos: primeiro → último
-);
-// .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+const modules = import.meta.glob('./blog/*.md', { eager: true });
+const allPosts = Object.values(modules).map((m) => ({ url: m.url, ...m.frontmatter }));
+
+// Agrupar por caderno; dentro de cada um, ordenar por número (crescente);
+// os cadernos entre si, do mais recente para o mais antigo.
+const byCaderno = {};
+for (const p of allPosts) {
+  (byCaderno[p.caderno] ??= []).push(p);
+}
+const cadernos = Object.entries(byCaderno)
+  .map(([caderno, posts]) => ({
+    caderno,
+    titulo: posts[0]?.cadernoTitulo ?? `Caderno ${caderno}`,
+    posts: posts.sort((a, b) => Number(a.number) - Number(b.number)),
+  }))
+  .sort((a, b) => Number(b.caderno) - Number(a.caderno));
 ---
 
 <BaseLayout title="Arquivo" description="Todos os ensaios do Areia do Tempo, por ordem cronológica.">
@@ -19,8 +28,11 @@ const posts = Object.values(modules)
     <p class="eyebrow">Arquivo</p>
     <h1 class="arquivo__title">Todos os ensaios</h1>
 
+    {cadernos.map((c) => (
+  <section class="arquivo__caderno">
+    <h2 class="arquivo__cadernoTitulo">{c.titulo}</h2>
     <ol class="arquivo__list">
-      {posts.map((post) => (
+      {c.posts.map((post) => (
         <li class="row">
           <a class="row__link" href={post.url}>
             <span class="row__meta">Nº {post.number} · {formatDateShort(post.pubDate)}</span>
@@ -29,6 +41,8 @@ const posts = Object.values(modules)
         </li>
       ))}
     </ol>
+  </section>
+))}
   </main>
 </BaseLayout>
 
