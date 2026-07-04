@@ -2,7 +2,6 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { formatDateShort } from '../utils/date.js';
 
-// Lista cronológica completa de todos os ensaios.
 const modules = import.meta.glob('./blog/*.md', { eager: true });
 const allPosts = Object.values(modules).map((m) => ({ url: m.url, ...m.frontmatter }));
 
@@ -10,7 +9,8 @@ const allPosts = Object.values(modules).map((m) => ({ url: m.url, ...m.frontmatt
 // os cadernos entre si, do mais recente para o mais antigo.
 const byCaderno = {};
 for (const p of allPosts) {
-  (byCaderno[p.caderno] ??= []).push(p);
+  if (!byCaderno[p.caderno]) byCaderno[p.caderno] = [];
+  byCaderno[p.caderno].push(p);
 }
 const cadernos = Object.entries(byCaderno)
   .map(([caderno, posts]) => ({
@@ -104,9 +104,8 @@ const cadernos = Object.entries(byCaderno)
 .arquivo__caderno { margin-bottom: 3rem; }
 .arquivo__cadernoTitulo {
   font-family: var(--mono);
-  font-size: 0.8rem;
+  font-size: clamp(1.4rem, 3vw, 1.9rem)
   letter-spacing: 0.12em;
-  text-transform: uppercase;
   color: var(--accent-deep);
   margin: 0 0 1rem;
 }

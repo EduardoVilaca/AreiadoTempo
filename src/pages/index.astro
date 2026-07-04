@@ -11,7 +11,6 @@ const allPosts = Object.values(modules)
   Number(b.caderno) - Number(a.caderno) ||   // dossiers: recente → antigo
   Number(a.number) - Number(b.number)        // capítulos: primeiro → último
 );
-//  .sort((a, b) => Number(a.number) - Number(b.number));
 
 // Caminho B: a entrada mostra só os mais recentes; o arquivo tem tudo
 const cadernoAtual = allPosts.length
@@ -19,14 +18,14 @@ const cadernoAtual = allPosts.length
   : [];
 const posts = cadernoAtual;
 const haMais = allPosts.length > cadernoAtual.length;
-const cadernoTitulo = posts[0]?.cadernoTitulo ?? '';
+const cadernoTitulo = posts[0]?.cadernoTitulo ?? 'Caderno de opinião';
 
 ---
 
 <BaseLayout>
   <main class="wrap">
     <section class="hero">
-      <p class="eyebrow">Caderno de opinião</p>
+      <p class="eyebrow">{cadernoTitulo}</p>
       <h1 class="hero__thesis">
         O que se diz no calor do dia assenta, com o tempo, como areia.
       </h1>
@@ -37,7 +36,6 @@ const cadernoTitulo = posts[0]?.cadernoTitulo ?? '';
     </section>
 
     <section class="index" aria-label="Ensaios">
-      {cadernoTitulo && <h2 class="index__caderno">{cadernoTitulo}</h2>}
       <ol class="index__list">
         {posts.map((post) => (
           <li class="entry">
