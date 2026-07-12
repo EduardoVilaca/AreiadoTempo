@@ -5,6 +5,7 @@ description: "A escolha do método de cálculo mais favorável foi criada e depo
 pubDate: "2026-07-01"
 caderno: "01"
 cadernoTitulo: "Pensões: Reparar o Passado"
+draft: true
 number: "03"
 ---
 

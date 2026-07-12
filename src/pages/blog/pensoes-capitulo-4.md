@@ -5,6 +5,7 @@ description: "Congelam e corroem as pensões mais altas em nome da sustentabilid
 pubDate: "2026-07-01"
 caderno: "01"
 cadernoTitulo: "Pensões: Reparar o Passado"
+draft: true
 number: "04"
 ---
 

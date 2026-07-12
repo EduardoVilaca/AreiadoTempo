@@ -5,6 +5,7 @@ description: "Esta série abre pelo fim — pelas soluções. Três reparações
 pubDate: "2026-07-02"
 caderno: "01"
 cadernoTitulo: "Pensões: Reparar o Passado"
+draft: true
 number: "01"
 ---
 

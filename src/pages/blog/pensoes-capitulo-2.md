@@ -5,6 +5,7 @@ description: "Discute-se a 'sustentabilidade' das pensões com um livro-razão e
 pubDate: "2026-06-26"
 caderno: "01"
 cadernoTitulo: "Pensões: Reparar o Passado"
+draft: true
 number: "02"
 ---
 
