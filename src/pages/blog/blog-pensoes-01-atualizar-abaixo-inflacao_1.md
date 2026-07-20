@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/PostLayout.astro
 title: "Atualizar pensões abaixo da inflação não poupa quase nada. Então porque se faz?"
-description: "Fiz as contas à degradação das pensões acima de 6 IAS e ao congelamento acima de 12: a poupança é irrisória face ao excedente do sistema. O que está em causa é o método, e a credibilidade do contrato. Primeiro de dois artigos."
+description: "Fiz as contas à degradação das pensões acima de 6 IAS e ao congelamento acima de 12: a poupança é irrisória face ao excedente do sistema. O que está em causa é o método, e a credibilidade do contrato. Primeiro artigo da série."
 pubDate: "2026-07-12"
 caderno: "01"
 cadernoTitulo: "Pensões: A Palavra e a Conta"
