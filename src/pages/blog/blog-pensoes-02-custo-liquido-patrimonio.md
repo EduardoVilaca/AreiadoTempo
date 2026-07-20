@@ -9,7 +9,7 @@ draft: true
 number: "02"
 ---
 
-No [artigo anterior](/blog/congelar-nao-poupa) mostrei que congelar as pensões altas poupa uma quantia irrisória. Fica a dever-se uma segunda conta, anterior a essa: **quanto custam, ao certo, as pensões?** O número que circula — cerca de 36 mil milhões de euros por ano, somadas a Segurança Social e a Caixa Geral de Aposentações — é um custo bruto. E o Estado nunca paga o bruto.
+No [artigo anterior](/blog/blog-pensoes-01-atualizar-abaixo-inflacao) mostrei que atualizar as pensões abaixo da inflação — e congelar as mais altas — poupa uma quantia irrisória. Fica a dever-se uma segunda conta, anterior a essa: **quanto custam, ao certo, as pensões?** O número oficial — 37,6 mil milhões de euros em 2025, somadas a Segurança Social e a Caixa Geral de Aposentações — é um custo bruto. E o Estado nunca paga o bruto.
 
 Paga o líquido. As pensões são rendimento da Categoria H do IRS: sofrem retenção na fonte todos os meses e são tributadas pelos escalões gerais, como os salários. Uma parte de cada pensão regressa ao Estado antes de chegar ao pensionista; outra regressa depois, em IVA, porque a pensão gasta-se — em bens e serviços consumidos cá, tributados cá. O custo líquido das pensões é, portanto, substancialmente inferior ao bruto que alimenta o discurso da calamidade. Quanto, exatamente? Não se sabe: nenhum documento oficial apresenta essa conta. E a omissão não é neutra — debater com o único número que engorda o problema é meio caminho andado para justificar qualquer corte.
 
@@ -17,7 +17,7 @@ Paga o líquido. As pensões são rendimento da Categoria H do IRS: sofrem reten
 
 A segunda conta é mais incómoda, porque aponta ao futuro. Portugal comprometeu-se — e bem — com a convergência salarial europeia: o salário mínimo subiu mais de 30% desde 2022 e o objetivo declarado é aproximar o peso dos salários no PIB da média da União. Ora, **a velhice compra sobretudo trabalho**. Um lar, uma residência sénior, o apoio domiciliário, a acompanhante que fica de noite: são serviços intensivos em mão-de-obra, onde não há ganhos de produtividade que absorvam os aumentos salariais. Quando os salários convergem para a Europa, o preço de envelhecer converge com eles — à frente da inflação, ano após ano.
 
-É o mecanismo que descrevi no artigo anterior, agora em versão estrutural: as pensões, mesmo quando atualizadas pela inflação, ficam sistematicamente para trás face ao preço daquilo que a velhice mais precisa de comprar. A pensão média de velhice da Segurança Social ronda os 600 euros; a mensalidade de um lar privado é um múltiplo disso. O desfasamento não é um acidente de percurso: é aritmética.
+É o mecanismo que descrevi no artigo anterior, agora em versão estrutural: as pensões, mesmo quando atualizadas pela inflação, ficam sistematicamente para trás face ao preço daquilo que a velhice mais precisa de comprar. A pensão média de velhice do regime geral é de 645 euros — e metade dos pensionistas recebe menos de 462; a mensalidade de um lar privado é um múltiplo disso. O desfasamento não é um acidente de percurso: é aritmética.
 
 ## O que os pensionistas têm — e o que o Estado lhes faz
 
@@ -53,11 +53,11 @@ Nada disto toca no excedente da Segurança Social. Nada disto cria despesa nova 
 
 **Relatórios e documentos oficiais**
 
-- Despesa com pensões: cerca de 24 mil milhões de euros na Segurança Social e 12,4 mil milhões na CGA em 2024: Conselho das Finanças Públicas, Relatório n.º 03/2025.
+- Despesa pública total com pensões: 37,6 mil milhões de euros em 2025 — 24,9 mil milhões na Segurança Social e 12,7 mil milhões na CGA: Conselho das Finanças Públicas, Relatório n.º 04/2026, *Evolução Orçamental da Segurança Social e da CGA em 2025*, maio de 2026 (primeira compilação oficial da despesa total).
+- Pensão média de velhice do regime geral da Segurança Social: 645 euros em 2024, com mediana de 462 euros: Banco de Portugal, "Os pensionistas de velhice em Portugal: uma análise com microdados", Boletim Económico, dezembro de 2025.
 - Acordo de Médio Prazo de Melhoria dos Rendimentos, dos Salários e da Competitividade (2022): objetivo de elevar o peso das remunerações no PIB para um valor não inferior a 48,3% em 2026, em convergência com a média europeia.
 
 **Valores a confirmar ou estimados pelo autor**
 
-- Pensão média de velhice da Segurança Social na ordem dos 600 euros. *(Confirmar valor exato no relatório do CFP ou na Pordata antes da publicação.)*
 - Taxa de propriedade de habitação própria entre os maiores de 65 anos, das mais elevadas da União Europeia. *(Confirmar em INE, Censos 2021, ou Eurostat/EU-SILC.)*
 - Custo líquido das pensões (bruto deduzido de IRS retido na Categoria H e IVA implícito no consumo dos pensionistas): estimativa a desenvolver pelo autor a partir das Estatísticas do IRS da Autoridade Tributária. *(Nota: os dados por categoria existem e permitem uma ordem de grandeza; a conta agregada, essa, não é publicada por nenhuma entidade oficial.)*
